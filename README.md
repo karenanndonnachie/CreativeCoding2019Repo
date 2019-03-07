@@ -1,19 +1,26 @@
 # CreativeCoding2019Repo
-RMIT_creativeCoding_2019
+<strong>RMIT_creativeCoding_2019</strong>
 
-
-This is where you will find the documentation of our Creative Coding.
+This is where you will find the documentation of our Creative Coding Course.
 Please set up your own github repository to store your sketches/code and software.
+Each week you will make a readme with one or more screenshots of the work you have done in class + any completed homework tasks.
+You will also put your code from your homework in these folders—your homework should be your own original code.
+You will tell me your github address next week in class. 
 
-Look in /code for code snippets from the weekly workshops
+Look in each week's /code folder for snippets from the weekly workshops.
+Each week's 'readme' will have links to artists.
+Each week will be listed here as it gets activated.
+
 
 _____________________________________
-FAQ
+<strong>FAQ</strong>
+
 How do I create a GitHub repository?
-Create a repo:
-  1. In the upper-right corner of any page, click , and then click New repository.
+  1. In the upper-right corner of any Github page, click '+', and then click New repository.
   2. Type a short, memorable name for your repository. ...
   3. Optionally, add a description of your repository. ...
   4. Choose between creating a public or private repository. ...
   5. Select Initialize this repository with a README.
   6. Click Create repository.
+
+_____________________________________
