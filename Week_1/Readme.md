@@ -19,5 +19,10 @@ In summary we learned:
   9. Secondary 'listening' functions - `void keyPressed() { }`
   10. How to establish canvas with background / size / stroke etc.
   
-
+<strong>Your HOMEWORK</strong>
+ 1. Complete the sketch you started of your portrait (it can be interactive if you like but it does not have to be)
+ 2. Research at least one Processing sketch that switches you on, please look at the code (even if you don't understand it) and be prepared to show in class and explain why you like it.
+ 3. Set up your own github repo for this course as a working diary. If you find this daunting, don't worry, we can go through this in class.
+ 
+ 
 
