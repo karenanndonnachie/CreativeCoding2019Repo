@@ -1,4 +1,6 @@
 CreativeCoding_2019: WEEK 1
 Introduction to Processing.
 
-![Alt text](week1_rainbow_caterpillar.jpg?raw=true&width=350 "Rainbow_caterpillars")
+<img src="week1_rainbow_caterpillar.jpg" width="350" alt="Rainbow_caterpillars"/>
+
+
