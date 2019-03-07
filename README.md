@@ -23,4 +23,7 @@ How do I create a GitHub repository?
   5. Select Initialize this repository with a README.
   6. Click Create repository.
 
+How do I add an image to my 'readme.md' files?
+  You can add images to your folder by uploading the image (please keep them light jpg format <200kb).
+  Then, you show your image on your readme page by using general html markup, eg `<img src="yourImage.jpg" width="350" />` (or similar).
 _____________________________________
