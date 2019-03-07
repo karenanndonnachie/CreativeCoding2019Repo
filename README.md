@@ -5,6 +5,10 @@ RMIT_creativeCoding_2019
 This is where you will find the documentation of our Creative Coding.
 Please set up your own github repository to store your sketches/code and software.
 
+Look in /code for code snippets from the weekly workshops
+
+_____________________________________
+FAQ
 How do I create a GitHub repository?
 Create a repo:
   1. In the upper-right corner of any page, click , and then click New repository.
