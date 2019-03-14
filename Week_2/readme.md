@@ -6,8 +6,18 @@ Today we covered a number of important coding elements as well as a couple of sp
 We were introduced to methods with which Processing can add, display and manipulate an image, and also how to load in a font or use the system fonts to write with Processing, more work on both of these next week.
 
 New vocabulary to note:
-  <ul>
-  <li> PImage</li>
-  <li> PFont</li>
+  `PImage`
+  `imageMode(CENTER)`
+  `PFont`
+  `color` eg: `color pix = photo.get (x,y);`
+  `float`
+  `map`
+  `String`
+  `createFont()`
+  `loadFont()`
+  `textFont()`
+  paragraph`.length`
+  paragraph`.charAt()`
+  `for (int i = 0; i < limit; i++) {  }`
   
   
