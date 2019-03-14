@@ -25,7 +25,7 @@ How do I create a GitHub repository?
 
 How do I add a folder to my github repo?
  1. Select "Create new file"
- 2. When prompted to name the file add a directory before the name... eg. /Week 2/readme.md the directory (folder will get added automatically
+ 2. When prompted to name the file add a directory (with forward slash) before the name... eg. /Week 2/readme.md the directory (folder will get added automatically
 
 How do I add an image to my 'readme.md' files?
  1. You can add images to your folder by uploading the image (please keep them light jpg format <200kb).
