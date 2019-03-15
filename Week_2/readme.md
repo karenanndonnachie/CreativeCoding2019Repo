@@ -5,19 +5,19 @@ Well we made it through the second week and we are still going steep up that lea
 Today we covered a number of important coding elements as well as a couple of specific-to-Processing functions.
 We were introduced to methods with which Processing can add, display and manipulate an image, and also how to load in a font or use the system fonts to write with Processing, more work on both of these next week.
 
-New vocabulary to note:
-  `PImage`
-  `imageMode(CENTER)`
-  `PFont`
-  `color` eg: `color pix = photo.get (x,y);`
-  `float`
-  `map`
-  `String`
-  `createFont()`
-  `loadFont()`
-  `textFont()`
-  paragraph`.length`
-  paragraph`.charAt()`
-  `for (int i = 0; i < limit; i++) {  }`
+New vocabulary to note:<br/>
+  `PImage`<br/>
+  `imageMode(CENTER)`<br/>
+  `PFont`<br/>
+  `color` eg: `color pix = photo.get (x,y);`<br/>
+  `float`<br/>
+  `map`<br/>
+  `String`<br/>
+  `createFont()`<br/>
+  `loadFont()`<br/>
+  `textFont()`<br/>
+  `.length`  eg. `someString.length`<br/>
+  `.charAt()` eg. `someString.charAt()`<br/>
+  `for (int i = 0; i < limit; i++) {  }`<br/>
   
   
