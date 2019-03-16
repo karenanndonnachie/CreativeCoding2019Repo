@@ -1,4 +1,4 @@
-<strong>Week_2 </strong>
+# Week_2 
 
 Well we made it through the second week and we are still going steep up that learning curve with our eyes on a small plateau that will come into focus soon.
 
