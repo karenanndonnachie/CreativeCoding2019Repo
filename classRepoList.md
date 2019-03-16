@@ -1,4 +1,4 @@
-<strong>2019 Creative Coding Class Repository List</strong><br/><br/>
+# 2019 Creative Coding Class Repository List
 [Main] https://github.com/karenanndonnachie/CreativeCoding2019Repo
 
 https://github.com/KeyTrent/
