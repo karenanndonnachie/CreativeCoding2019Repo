@@ -19,6 +19,8 @@ New vocabulary to note:<br/>
   `.length`  eg. `someString.length`<br/>
   `.charAt()` eg. `someString.charAt()`<br/>
   `for (int i = 0; i < limit; i++) {  }`<br/>
-  
-  We all made a "Pointillizer" sketch in Processing which slowly fills the canvas with coloured dots, slowly making up our own portrait. The dots were larger or smaller depending on how we position our mouse across the X axis (using the 'map' function).
- <img src="pointillize_576.jpg" width="480" height="480"/> <img src="pointillize_7057.jpg" width="480" height="480"/>
+ 
+  ## Pointillizer
+  <img src="pointillize_576.jpg" width="480" height="480"/> <img src="pointillize_7057.jpg" width="480" height="480"/><br />
+  We all made a "Pointillizer" sketch in Processing which slowly fills the canvas with coloured dots, slowly making up our own portrait. The dots were larger or smaller depending on how we position our mouse across the X axis (using the 'map' function).<br/><br/>
+
