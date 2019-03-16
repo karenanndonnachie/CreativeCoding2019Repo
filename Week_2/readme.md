@@ -24,3 +24,4 @@ New vocabulary to note:<br/>
   <img src="pointillize_576.jpg" width="280" height="280"/> <img src="pointillize_7057.jpg" width="280" height="280"/><br />
   We all made a "Pointillizer" sketch in Processing which slowly fills the canvas with coloured dots, slowly making up our own portrait. The dots were larger or smaller depending on how we position our mouse across the X axis (using the 'map' function).<br/><br/>
 
+An interesting derivation of the pointillize sketch (using triangles rather than ellipses) can be seen at the base of the work <href= "http://www.kultur.design/portfolio/dead-presidents/" >Dead Presidents.</a>
