@@ -5,7 +5,7 @@ This is where you will find the documentation of our Creative Coding Course.
 Please set up your own github repository to store your sketches/code and software.
 Each week you will make a readme with one or more screenshots of the work you have done in class + any completed homework tasks.
 You will also put your code from your homework in these folders—your homework should be your own original code.
-You will tell me your github address next week in class. 
+You will tell me your github address in class and I will add it to <a href="classRepoList.md">this document</a>. 
 
 Look in each week's /code folder for snippets from the weekly workshops.
 Each week's 'readme' will have links to artists.
