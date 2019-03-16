@@ -21,6 +21,6 @@ New vocabulary to note:<br/>
   `for (int i = 0; i < limit; i++) {  }`<br/>
  
   ## Pointillizer
-  <img src="pointillize_576.jpg" width="480" height="480"/> <img src="pointillize_7057.jpg" width="480" height="480"/><br />
+  <img src="pointillize_576.jpg" width="280" height="280"/> <img src="pointillize_7057.jpg" width="280" height="280"/><br />
   We all made a "Pointillizer" sketch in Processing which slowly fills the canvas with coloured dots, slowly making up our own portrait. The dots were larger or smaller depending on how we position our mouse across the X axis (using the 'map' function).<br/><br/>
 
