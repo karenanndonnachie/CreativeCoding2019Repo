@@ -1,7 +1,9 @@
 # Processing Week 3
 
 We added a new layer to a sketch and add new features to a 'Make a dot-to-dot' program. The program drops a dot and a sequential number onto the canvas. Our sketch permitted a 'Toggle' through the implementation of a boolean variable and its opposite eg. `showImage = !showImage;`<br /><br/>
-All of the following snippets are required, see the dot-to-dot sketch to see where/how to use them:<br />
+All of the following snippets are required, see the <a href="
+        CreativeCoding2019Repo/Week 3/Dot_dot_backgroundToggle/Dot_dot_backgroundToggle.pde
+      " >dot-to-dot sketch </a>to see where/how to use them:<br />
 `PGraphics topLayer;`<br />
 `boolean showImage;`
 `createGraphics (topLayer);`<br />
