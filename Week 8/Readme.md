@@ -1,4 +1,4 @@
-# Week 7 : Project Discussion & Introduction to Arduino
+# Weeks 7-10 : Project Discussion / Introduction to Arduino / Project resources
 
 Some useful links for your projects (perhaps)
 
