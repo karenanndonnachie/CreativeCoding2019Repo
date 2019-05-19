@@ -61,3 +61,52 @@ etc. Here is a list of the mouse related functions in p5js:
   }
 }
 </pre>
+
+## Some information about JSON
+JSON
+JSON (JavaScript Object Notation) is a standard way to provide machine readable data to and from web services. Despite the fact that JavaScript is part of its title, it's generally useful in all programming languages.
+
+A JSON object is an unordered set of name/value pairs. An object begins with { (left brace) and ends with } (right brace). Each name is followed by : (colon) and the name/value pairs are separated by , (commas). The name is always a string, the value can be a string, number, boolean, array, or a nested object.
+
+<pre>{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25,
+  "address": {
+    "streetAddress": "21 2nd Street",
+    "city": "New York",
+    "state": "NY",
+    "postalCode": "10021"
+  },
+  "phoneNumber": [
+    {
+      "type": "home",
+      "number": "212 555-1234"
+    },
+    {
+      "type": "fax",
+      "number": "646 555-4567"
+    }
+  ],
+  "gender":{
+    "type":"male"
+  }
+}</pre>
+
+If this were JSON data we loaded into a Javascript application, it would be stored in a variable, like this:
+
+<pre>var mydata = {
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25,
+  "address": {
+    "streetAddress": "21 2nd Street",
+    "city": "New York",
+    "state": "NY",
+    "postalCode": "10021"
+  }
+  ...
+};</pre>
+Now you can access it with the variable mydata:
+
+`alert('I am at' + mydata.address.streetAddress);`
