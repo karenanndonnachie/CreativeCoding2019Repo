@@ -1,5 +1,26 @@
 # Using sprites for animation/games in P5js
+Sprites are useful when you have repeated graphics or character, objects, etc..
+Creating a sprite in p5.play is accomplished using the createSprite() function. This function returns a sprite object, which itself has a number of attributes and methods that allow us to query and change properties of the sprite.
+Here’s a simple example that creates a single sprite:
+<pre>var spr;
+function setup() {
+  createCanvas(400, 400);
+  spr = createSprite(
+    width/2, height/2, 40, 40);
+  spr.shapeColor = color(255);
+  spr.velocity.y = 0.5;
+}
+function draw() {
+  background(50);
+  drawSprites();
+}
+function mousePressed() {
+  spr.position.x = mouseX;
+  spr.position.y = mouseY;
+}</pre>
 
+## Multiple sprites
+You can call the createSprite() function as many times as you want to! The p5.play framework keeps track of all the sprites you’ve added behind the scenes (so you don’t need to create your own data structure to store them). In the following example, I’ve written some code in mousePressed() that creates a new sprite whenever the user clicks the mouse:
 https://creative-coding.decontextualize.com/making-games-with-p5-play/
 ## For example.... Using sprites in groups
 <pre>var clouds;
